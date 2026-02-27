@@ -7,6 +7,7 @@ Ele foi desenvolvido como parte do meu processo de aprofundamento em testes de A
 A API utilizada foi a **[FakeStore API](https://fakestoreapi.com/docs)**, cuja documentação oficial serviu como base para entendimento dos endpoints, métodos disponíveis e estrutura das respostas.
 
 Mais do que validar respostas 200, minha intenção foi entender como uma API deve funcionar, como organizar testes de forma coerente e como analisar criticamente aquilo que está sendo retornado.
+
 ---
 
 # 📌 Sobre a FakeStore API
